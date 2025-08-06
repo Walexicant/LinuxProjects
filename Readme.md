@@ -53,3 +53,15 @@ This searches for the string SSH in Text file
 14. Upgrade
    ![upgrade](./Screenshots/Upgrade.jpg)
    The above screenshots  helps update and upgrade existing packages
+
+15. HTOP Install
+    ![HtopInstall](./Screenshots/HTOP%20install.jpg)
+    This script installs HTOP package
+
+16. Htop Version
+    ![Htop Version](./Screenshots/HTOP%20version.jpg)
+    This script shows the version of the HTOP
+17. Htop Remove
+    ![Htop remove](./Screenshots/Remove%20htop.jpg)
+    The script above remove HTOP without deleting the packages
+    
