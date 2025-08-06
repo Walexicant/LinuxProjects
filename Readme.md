@@ -26,16 +26,30 @@ The script above Deletes the epsilon text file we earlier created
 ![Copy ETC](./Screenshots/Copy%20ETC.jpg)
 The script above Copies the service file from ETC to Cli_lab
 
-8.  Count Lines
-![Count Lines](./Screenshots/Count%20Lines.jpg)
-This helps to count the line in the  Service TXT file
+8. Count Lines
+ ![Count Lines](./Screenshots/Count%20Lines.jpg)
+ This helps to count the line in the  Service TXT file
 
 9. Non Comment 
-![Non Comment](./Screenshots/Non%20Comment%20Lines.jpg)
+ ![Non Comment](./Screenshots/Non%20Comment%20Lines.jpg)
  This print The Non-comment Lines.
 
 10. Grep SSH
   ![Grep SSH](./Screenshots/Grep%20SSH.jpg)
 This searches for the string SSH in Text file
 
+11. Man Less
+   ![Man Less](./Screenshots/MAN%20Less.jpg)
+   The Above screenshot shows the function of the -R in the Less command
 
+12. Dos 2 unix
+   ![Dos2unix](./Screenshots/Dos%20to%20unix.jpg)
+   The above screenshots searches for the script that converts dos command to unix
+
+13. Mkdir 
+   ![Mkdir](./Screenshots/MKDIR%20-P.jpg)
+   The screenshot shows the description for parents directory
+
+14. Upgrade
+   ![upgrade](./Screenshots/Upgrade.jpg)
+   The above screenshots  helps update and upgrade existing packages
