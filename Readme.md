@@ -147,7 +147,9 @@ The screenshot show the bash edit to add the fortune command
 The command shows the Fortune output when WSL is restarted
 
 ## 29. BashFile Creation
+
 ![Create Bashfile](./Screenshots/Bashfile.jpg)
+
 The Above Script Creates a Bash File
 
 
@@ -160,3 +162,13 @@ The Script above upgrade packages, auto removes unused packages and also generat
 ## 31. Assign Permission
 ![Assign Permission](./Screenshots/Permission.jpg)
 The script assign the permission that allows the bash file to be executed
+
+## 32. Bash Output.
+![Bash Output](./Screenshots/Bash%20Output.jpg)
+
+The Screenshot Generates a Bash Output
+
+
+## Thank you for  going through the work
+## Kindly Reach out if  you need Further Clarity
+
