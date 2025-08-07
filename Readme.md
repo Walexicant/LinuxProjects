@@ -45,7 +45,9 @@ This helps to count the line in the  Service TXT file
  This print The Non-comment Lines.
 
 ## 10. Grep SSH
+
 ![Grep SSH](./Screenshots/Grep%20SSH.jpg)
+
 This searches for the string SSH in Text file
 
 ## 11.  Man Less
@@ -53,7 +55,9 @@ This searches for the string SSH in Text file
    The Above screenshot shows the function of the -R in the Less command
 
 ## 12. Dos 2 unix
+
 ![Dos2unix](./Screenshots/Dos%20to%20unix.jpg)
+
 The Above Screenshot shows how to convert DOS to Unix
 
 ## 13. Mkdir 
@@ -65,7 +69,9 @@ The Above Screenshot shows how to convert DOS to Unix
    The above screenshots  helps update and upgrade existing packages
 
 ## 15. HTOP Install
+
 ![Htop install](./Screenshots/HTOP%20install.jpg)
+
 This script Installs HTOP Package
   
 
@@ -111,5 +117,8 @@ The Above screenshot shows detailed information about CURL
 ![Export Curl](./Screenshots/Curl%20export.jpg)
 The Script export Curl Dependencies.
 
-
+## 23. APT Remove VS Purge
+![APT Remove](./Screenshots/Remove%20cURL.jpg)
+![APT Purge](./Screenshots/CurlPurge.jpg)
+The two screenshot shows the difference between Purge and remove. Purge deletes all related files and settings while remove keeps the settings.
        
