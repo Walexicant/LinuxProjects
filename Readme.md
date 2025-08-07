@@ -170,5 +170,5 @@ The Screenshot Generates a Bash Output
 
 
 ## Thank you for  going through the work
-## Kindly Reach out if  you need Further Clarity
+## Kindly Reach Out If  You Need Further Clarification
 
