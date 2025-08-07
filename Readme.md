@@ -53,7 +53,7 @@ This searches for the string SSH in Text file
    The above screenshots searches for the script that converts dos command to unix
 
 ## 13. Mkdir 
-   ![Mkdir](./Screenshots/MKDIR%20-P.jpg)
+![Mkdir](./Screenshots/MKDIR%20-P.jpg)
    The screenshot shows the description for parents directory 
 
 ## 14. Upgrade
@@ -61,32 +61,31 @@ This searches for the string SSH in Text file
    The above screenshots  helps update and upgrade existing packages
 
 ## 15. HTOP Install
-    ![HtopInstall](./Screenshots/HTOP%20install.jpg)
-    This script installs HTOP package
+  ![Htop install](./Screenshots/HTOP%20install.jpg)
+  This install Htop Package
 
 ## 16. Htop Version
-    ![Htop Version](./Screenshots/HTOP%20version.jpg)
-   
+   ![htop version](./Screenshots/HTOP%20version.jpg)
    This script shows the version of the HTOP
 
 
 ## 17. Htop Remove
-    ![Htop remove](./Screenshots/Remove%20htop.jpg)
-    The script above remove HTOP without deleting the packages.
+![htop remove](./Screenshots/Remove%20htop.jpg)
+The script remove Htop without deleting packages
 
 
 ## 18. Htop Reinstall
-    ![Reinstall htop](./Screenshots/Reinstall%20htop.jpg)
+![Reinstall htop](./Screenshots/Reinstall%20htop.jpg)
     The script reinstalls HTop
  
 
 ## 19. Htop Hold
-    ![Htop hold](./Screenshots/Htop%20hold.jpg)
-    The above screenshots stops htop from been updated when system packages are been updated
+![Htop hold](./Screenshots/Htop%20hold.jpg)
+ The above screenshots stops htop from been updated when system packages are been updated
 
 
 ## 20. HtopShow
-    ![show hold](./Screenshots/Show%20hold.jpg)
-     The above script shows all packages under hold
+![show hold](./Screenshots/Show%20hold.jpg)
+The above script shows all packages under hold
 
        
