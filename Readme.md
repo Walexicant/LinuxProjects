@@ -64,4 +64,15 @@ This searches for the string SSH in Text file
 17. Htop Remove
     ![Htop remove](./Screenshots/Remove%20htop.jpg)
     The script above remove HTOP without deleting the packages
-    
+
+    Htop Reinstall
+    ![Htop reinstall](./Screenshots/Reinstall%20htop.jpg)
+    The above script reinstall htop after removal
+
+    Htop Hold
+    ![htop hold](./Screenshots/Htop%20hold.jpg)
+    The above screenshots stops htop from been updated when system packages are been updated
+
+    HtopShow
+    ![show hold](./Screenshots/Show%20hold.jpg)
+    The above script shows all packages under hold
