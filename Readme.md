@@ -65,7 +65,9 @@ This searches for the string SSH in Text file
   This install Htop Package
 
 ## 16. Htop Version
+
 ![htop version](./Screenshots/HTOP%20version.jpg)
+
 The Script Shows The Version Of HTOP Installed
 
 
@@ -87,5 +89,9 @@ The script remove Htop without deleting packages
 ## 20. HtopShow
 ![show hold](./Screenshots/Show%20hold.jpg)
 The above script shows all packages under hold
+
+## 21. Display Package Information
+![Display Package](./Screenshots/Display%20package%20information.jpg)
+The Above screenshot shows detailed information about CURL
 
        
