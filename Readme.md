@@ -31,7 +31,7 @@ The script above Copies the service file from ETC to Cli_lab
 
 8. ## Count Lines
 ![Count Lines](./Screenshots/Count%20Lines.jpg)
- This helps to count the line in the  Service TXT file
+This helps to count the line in the  Service TXT file
 ---
 
 9. ## Non Comment 
@@ -64,6 +64,7 @@ This searches for the string SSH in Text file
 
 16. ## Htop Version
     ![Htop Version](./Screenshots/HTOP%20version.jpg)
+   
    This script shows the version of the HTOP
 
 
@@ -77,15 +78,13 @@ This searches for the string SSH in Text file
     The script reinstalls HTop
  
 
-
-   19. ## Htop Hold
+19. ## Htop Hold
     ![Htop hold](./Screenshots/Htop%20hold.jpg)
-   The above screenshots stops htop from been updated when system packages are been updated
+    The above screenshots stops htop from been updated when system packages are been updated
 
 
-   20. ## HtopShow
+20. ## HtopShow
     ![show hold](./Screenshots/Show%20hold.jpg)
-
-    The above script shows all packages under hold
+     The above script shows all packages under hold
 
        
