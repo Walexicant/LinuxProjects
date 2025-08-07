@@ -65,8 +65,8 @@ This searches for the string SSH in Text file
   This install Htop Package
 
 ## 16. Htop Version
-   ![htop version](./Screenshots/HTOP%20version.jpg)
-   This script shows the version of the HTOP
+![htop version](./Screenshots/HTOP%20version.jpg)
+The Script Shows The Version Of HTOP Installed
 
 
 ## 17. Htop Remove
