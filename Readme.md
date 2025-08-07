@@ -91,7 +91,7 @@ The script remove Htop without deleting packages
 
 ## 18. Htop Reinstall
 
-![Reinstall htop](./Screenshots/Reinstall%20htop.jpg)
+![Reinstall htop](./Screenshots/HTOP%20install.jpg)
 
 The script Re-installs Top
  
