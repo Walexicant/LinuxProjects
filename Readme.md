@@ -15,7 +15,9 @@ This adds date too all Text file in the cli_lab directory
 The script above copies the alpha Text file to TMP folder
 
 ## 5. Move Beta
+
 ![Move Beta](./Screenshots/Move%20Beta.jpg)
+
 The script above Move Beta Text file to a newly created directory called Archive
 
 ## 6. Remove Epsilon
@@ -26,7 +28,9 @@ The script above Deletes the epsilon text file we earlier created
 
 
 ## 7. Copy ETC 
+
 ![Copy ETC](./Screenshots/Copy%20ETC.jpg)
+
 The script above Copies the service file from ETC to Cli_lab
 
 ## 8. Count Lines
@@ -41,7 +45,7 @@ This helps to count the line in the  Service TXT file
  This print The Non-comment Lines.
 
 ## 10. Grep SSH
-  ![Grep SSH](./Screenshots/Grep%20SSH.jpg)
+![Grep SSH](./Screenshots/Grep%20SSH.jpg)
 This searches for the string SSH in Text file
 
 ## 11.  Man Less
@@ -49,8 +53,8 @@ This searches for the string SSH in Text file
    The Above screenshot shows the function of the -R in the Less command
 
 ## 12. Dos 2 unix
-   ![Dos2unix](./Screenshots/Dos%20to%20unix.jpg)
-   The above screenshots searches for the script that converts dos command to unix
+![Dos2unix](./Screenshots/Dos%20to%20unix.jpg)
+The Above Screenshot shows how to convert DOS to Unix
 
 ## 13. Mkdir 
 ![Mkdir](./Screenshots/MKDIR%20-P.jpg)
@@ -61,8 +65,9 @@ This searches for the string SSH in Text file
    The above screenshots  helps update and upgrade existing packages
 
 ## 15. HTOP Install
-  ![Htop install](./Screenshots/HTOP%20install.jpg)
-  This install Htop Package
+![Htop install](./Screenshots/HTOP%20install.jpg)
+This script Installs HTOP Package
+  
 
 ## 16. Htop Version
 
@@ -79,17 +84,23 @@ The script remove Htop without deleting packages
 
 
 ## 18. Htop Reinstall
+
 ![Reinstall htop](./Screenshots/Reinstall%20htop.jpg)
+
 The script Re-installs Top
  
 
 ## 19. Htop Hold
+
 ![Htop hold](./Screenshots/Htop%20hold.jpg)
- The above screenshots stops htop from been updated when system packages are been updated
+
+The above screenshot stops HTOP from being updated when system packages are being updated
 
 
 ## 20. HtopShow
+
 ![show hold](./Screenshots/Show%20hold.jpg)
+
 The above script shows all packages under hold
 
 ## 21. Display Package Information
