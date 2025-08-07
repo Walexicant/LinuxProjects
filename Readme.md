@@ -19,16 +19,22 @@ The script above copies the alpha Text file to TMP folder
 The script above Move Beta Text file to a newly created directory called Archive
 
 6. ## Remove Epsilon
+
 ![Remove Epsilon](./Screenshots/Remove%20Epsilon.jpg)
+
 The script above Deletes the epsilon text file we earlier created
+---
 
 7. ## Copy ETC 
 ![Copy ETC](./Screenshots/Copy%20ETC.jpg)
 The script above Copies the service file from ETC to Cli_lab
 
 8. ## Count Lines
+
  ![Count Lines](./Screenshots/Count%20Lines.jpg)
+
  This helps to count the line in the  Service TXT file
+---
 
 9. ## Non Comment 
  ![Non Comment](./Screenshots/Non%20Comment%20Lines.jpg)
@@ -59,23 +65,26 @@ This searches for the string SSH in Text file
     This script installs HTOP package
 
 16. ## Htop Version
+    
     ![Htop Version](./Screenshots/HTOP%20version.jpg)
+
     This script shows the version of the HTOP
+
 17. ## Htop Remove
     ![Htop remove](./Screenshots/Remove%20htop.jpg)
     The script above remove HTOP without deleting the packages
 
   18. ##  Htop Reinstall
-    ![Htop reinstall](./Screenshots/Reinstall%20htop.jpg)
-    
-    The above script reinstall htop after removal
+    ![Reinstall htop](./Screenshots/Reinstall%20htop.jpg)
 
-    ---
+    The script reinstalss HTop
+    - 
+ 
+
 
    19. ## Htop Hold
-    ![htop hold](./Screenshots/Htop%20hold.jpg)
-
-    The above screenshots stops htop from been updated when system packages are been updated
+    ![Htop hold](./Screenshots/Htop%20hold.jpg)
+   The above screenshots stops htop from been updated when system packages are been updated
 
 
    20. ## HtopShow
