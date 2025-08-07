@@ -121,4 +121,12 @@ The Script export Curl Dependencies.
 ![APT Remove](./Screenshots/Remove%20cURL.jpg)
 ![APT Purge](./Screenshots/CurlPurge.jpg)
 The two screenshot shows the difference between Purge and remove. Purge deletes all related files and settings while remove keeps the settings.
+
+## 24. Enable the universe repository
+![UNIVERSAL REPO](./Screenshots/Universal%20Repo.jpg)
+The Script enables the universal repository
+
+## 25. Refresh Package
+![Refresh Package](./Screenshots/Refresh%20Package%20List.jpg)
+This Refresh existing packages.
        
