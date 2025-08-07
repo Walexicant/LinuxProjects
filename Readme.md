@@ -130,3 +130,14 @@ The Script enables the universal repository
 ![Refresh Package](./Screenshots/Refresh%20Package%20List.jpg)
 This Refresh existing packages.
        
+## 26. Install Fortune
+![Install Fortune](./Screenshots/Install%20Fortune.jpg)
+The script Above Installs Fortune
+
+## 27. Edit Bash
+![Edit Bash](./Screenshots/Bash%20print.jpg)
+The screenshot show the bash edit to add the fortune command 
+
+## 28. Print Fortune
+![Print Fortune](./Screenshots/Fortune.jpg)
+The command shows the Fortune output when WSL is restarted
