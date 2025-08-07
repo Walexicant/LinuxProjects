@@ -67,12 +67,19 @@ This searches for the string SSH in Text file
 
   18. ##  Htop Reinstall
     ![Htop reinstall](./Screenshots/Reinstall%20htop.jpg)
+    
     The above script reinstall htop after removal
+
+    ---
 
    19. ## Htop Hold
     ![htop hold](./Screenshots/Htop%20hold.jpg)
+
     The above screenshots stops htop from been updated when system packages are been updated
+
 
    20. ## HtopShow
     ![show hold](./Screenshots/Show%20hold.jpg)
+
     The above script shows all packages under hold
+    ---
