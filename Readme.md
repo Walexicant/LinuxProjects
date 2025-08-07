@@ -30,9 +30,7 @@ The script above Deletes the epsilon text file we earlier created
 The script above Copies the service file from ETC to Cli_lab
 
 8. ## Count Lines
-
- ![Count Lines](./Screenshots/Count%20Lines.jpg)
-
+![Count Lines](./Screenshots/Count%20Lines.jpg)
  This helps to count the line in the  Service TXT file
 ---
 
@@ -65,20 +63,18 @@ This searches for the string SSH in Text file
     This script installs HTOP package
 
 16. ## Htop Version
-    
     ![Htop Version](./Screenshots/HTOP%20version.jpg)
+   This script shows the version of the HTOP
 
-    This script shows the version of the HTOP
 
 17. ## Htop Remove
     ![Htop remove](./Screenshots/Remove%20htop.jpg)
-    The script above remove HTOP without deleting the packages
+    The script above remove HTOP without deleting the packages.
 
-  18. ##  Htop Reinstall
+
+18. ##  Htop Reinstall
     ![Reinstall htop](./Screenshots/Reinstall%20htop.jpg)
-
-    The script reinstalss HTop
-    - 
+    The script reinstalls HTop
  
 
 
@@ -91,4 +87,5 @@ This searches for the string SSH in Text file
     ![show hold](./Screenshots/Show%20hold.jpg)
 
     The above script shows all packages under hold
-    ---
+
+       
