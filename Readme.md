@@ -141,7 +141,9 @@ The script Above Installs Fortune
 The screenshot show the bash edit to add the fortune command 
 
 ## 28. Print Fortune
+
 ![Print Fortune](./Screenshots/Fortune.jpg)
+
 The command shows the Fortune output when WSL is restarted
 
 ## 29. BashFile Creation
@@ -150,7 +152,9 @@ The Above Script Creates a Bash File
 
 
 ## 30. BashScript 
+
 ![Bashscript](./Screenshots/executebash.jpg)
+
 The Script above upgrade packages, auto removes unused packages and also generate an output to a Log File
 
 ## 31. Assign Permission
