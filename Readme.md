@@ -72,13 +72,15 @@ The Script Shows The Version Of HTOP Installed
 
 
 ## 17. Htop Remove
+
 ![htop remove](./Screenshots/Remove%20htop.jpg)
+
 The script remove Htop without deleting packages
 
 
 ## 18. Htop Reinstall
 ![Reinstall htop](./Screenshots/Reinstall%20htop.jpg)
-    The script reinstalls HTop
+The script Re-installs Top
  
 
 ## 19. Htop Hold
@@ -93,5 +95,10 @@ The above script shows all packages under hold
 ## 21. Display Package Information
 ![Display Package](./Screenshots/Display%20package%20information.jpg)
 The Above screenshot shows detailed information about CURL
+
+## 22. Export Curl Dependencies
+![Export Curl](./Screenshots/Curl%20export.jpg)
+The Script export Curl Dependencies.
+
 
        
