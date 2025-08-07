@@ -135,7 +135,9 @@ This Refresh existing packages.
 The script Above Installs Fortune
 
 ## 27. Edit Bash
+
 ![Edit Bash](./Screenshots/Bash%20print.jpg)
+
 The screenshot show the bash edit to add the fortune command 
 
 ## 28. Print Fortune
