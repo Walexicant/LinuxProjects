@@ -23,16 +23,18 @@ The script above Move Beta Text file to a newly created directory called Archive
 ![Remove Epsilon](./Screenshots/Remove%20Epsilon.jpg)
 
 The script above Deletes the epsilon text file we earlier created
----
+
 
 ## 7. Copy ETC 
 ![Copy ETC](./Screenshots/Copy%20ETC.jpg)
 The script above Copies the service file from ETC to Cli_lab
 
 ## 8. Count Lines
+
 ![Count Lines](./Screenshots/Count%20Lines.jpg)
+
 This helps to count the line in the  Service TXT file
----
+
 
 ## 9. Non Comment 
  ![Non Comment](./Screenshots/Non%20Comment%20Lines.jpg)
@@ -52,10 +54,9 @@ This searches for the string SSH in Text file
 
 ## 13. Mkdir 
    ![Mkdir](./Screenshots/MKDIR%20-P.jpg)
-   The screenshot shows the description for parents directory
-   
-   
- ## 14. Upgrade
+   The screenshot shows the description for parents directory 
+
+## 14. Upgrade
    ![upgrade](./Screenshots/Upgrade.jpg)
    The above screenshots  helps update and upgrade existing packages
 
